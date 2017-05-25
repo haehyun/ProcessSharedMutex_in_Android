@@ -1,4 +1,4 @@
-# ProcessSharedMutex_in_Android
+# Process Shared Mutex in Android
 This is an example of using the process shared mutex in Android. 
 
 After building the source code, 
